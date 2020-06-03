@@ -1,0 +1,19 @@
+.App{
+    text-align: center;
+    margin-top: 300px;
+    background-color: black;
+}
+.star{
+    cursor: pointer;
+    transition: color 200ms;
+}
+.starratings{
+    margin-left: 150px;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    
+  }
+  input[type="radio"]{
+      display:none;
+  }
+
